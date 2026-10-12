@@ -170,4 +170,7 @@ The system successfully analysed 25 students:
 - **Challenge:** Deciding a clear pass condition. **Solution:** Defined pass as ≥ 40 in all subjects.
 - **Challenge:** Deciding where to use NumPy vs Pandas. **Solution:** NumPy for calculations, Pandas for loading, filtering and grouping.
 - **Learning:** Writing reusable functions, using loops with DataFrames, and organising a project for GitHub.
+
+## 10. GitHub Repository
+https://github.com/KasimBasi05/Student-Performance-Analyzer
 ```
